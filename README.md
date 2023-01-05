@@ -1,4 +1,4 @@
-# structural_color_FROCs
+# Structural Coloring FROCs
 
 ## Data associated with the work: "Fano Resonant Optical coatings platform for Full Gamut and High Purity Structural Colors"
 
@@ -10,5 +10,7 @@ Structural coloring harnesses optical interference and nanophotonic resonances t
 The code in this repository can be used to simulate and numerically investigate the colormetric properties of FROCs as described in the manuscript.
 
 ## Software necessary for use:
+
 Python 3
+
 Jupyter Notebook
